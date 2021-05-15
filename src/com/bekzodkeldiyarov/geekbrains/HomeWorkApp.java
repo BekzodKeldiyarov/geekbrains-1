@@ -3,11 +3,11 @@ package com.bekzodkeldiyarov.geekbrains;
 public class HomeWorkApp {
 
     public static void main(String[] args) {
-        // write your code here
         printThreeWords();
         checkSumSign();
         printColor();
         compareNumbers();
+
     }
 
     public static void printThreeWords() {
@@ -45,5 +45,7 @@ public class HomeWorkApp {
         }
 
     }
+    //test
+    //test github
 
 }
